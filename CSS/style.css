@@ -1,0 +1,95 @@
+body{
+	
+	background-color: pink;
+	 background-image: linear-gradient(to right, pink, hotpink, purple);
+	
+}
+.form1{
+	
+	width: 350px;
+	margin: auto;
+	border-radius:20px;
+}
+.card{
+	
+	box-shadow: 1px 1px 5px white;
+	background-color: rgb(216, 74, 145);
+	padding:30px;
+	border-radius:60px;
+}
+.card-top{
+	text-align: center;
+	
+}
+.card-group > input{
+	
+	border-radius:200px;
+	width:250px;
+	height:7px;
+	padding:15px;
+}
+.card-group > label{
+	
+	width:100px;
+	color: rgb (85,14,69);
+	margin-bottom: 15px;
+	display: block;
+}
+	.title {
+		color: black;
+		
+	}
+	
+	.card-group > button {
+		
+		background-image: linear-gradient (to right, red, blue);
+		border-radius: 30px;
+		outline: 10px;
+		width: 250px;
+		color: white;
+		height: 50px;
+		
+	}
+	.btn button:hover{
+			
+    background-image: linear-gradient(to right, pink, purple);
+	
+		}
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

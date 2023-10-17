@@ -1,0 +1,75 @@
+body{
+	
+	background-color: aqua;
+}
+
+.form1{
+	width: 350px;
+	margin: auto;
+}
+.card{
+	box-shadow: 1px 1px 5px white;
+	background-color:white;
+	padding:30px;
+	border-radius: 45px;
+}
+.card-group > input{
+	border-radius:5px;
+	outline:0;
+	width: 290px;
+	height:40px;
+}
+
+.card-top{
+	text-align: center;
+	
+}
+.card-group > label{
+	width: 100px;
+	color: rgb(55,75,75);
+	margin-bottom:10px;
+	display: block;
+}
+
+.title{
+	color: red;
+	
+}
+
+.card-group > button{
+background-image: linear-gradient(to right, red, blue);
+border-radius:30px;
+width: 290px;
+color:white;
+height: 50px;
+}
+
+.btn button:hover{
+	
+background-image: linear-gradient(to right, blue,red);
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
